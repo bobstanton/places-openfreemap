@@ -1,0 +1,11 @@
+{
+	"id": "places-openfreemap",
+	"name": "Places - OpenFreeMap",
+	"version": "0.0.1",
+	"minAppVersion": "1.13.0",
+	"description": "Map provider for Places using OpenFreeMap, with free vector maps and POI discovery.",
+	"author": "Bob Stanton",
+	"authorUrl": "https://github.com/bobstanton",
+	"fundingUrl": "https://ko-fi.com/bobsoftware",
+	"isDesktopOnly": false
+}
